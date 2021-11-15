@@ -1,0 +1,400 @@
+
+Processing histMake.C...
+In file included from input_line_10:1:
+/x3/cms/jelee/mcsanc-git/histMake.C:11:1: warning: control may reach end of non-void function [-Wreturn-type]
+}
+^
+***** 2 bin 200********
+k-factor_add = 1.20762 +- 0.000337021 ,   k-factor fac = 1.16224 +- 0.000386171
+paramfit_add = 1.19727 ,  paramfit_mid = 1.17627
+diff k-factor(add-fac) = 0.0453809, (addfit - fac) = 0.0350312, (midfit -fac) = 0.0140338
+paramfit_add error = 0.0350312,  sys uncert = 2.92593 %
+***** 3 bin 300********
+k-factor_add = 1.16986 +- 0.00244793 ,   k-factor fac = 1.13876 +- 0.0027647
+paramfit_add = 1.17852 ,  paramfit_mid = 1.16029
+diff k-factor(add-fac) = 0.0311054, (addfit - fac) = 0.0397595, (midfit -fac) = 0.0215273
+paramfit_add error = 0.0397595,  sys uncert = 3.37369 %
+***** 4 bin 400********
+k-factor_add = 1.16318 +- 0.00259932 ,   k-factor fac = 1.13521 +- 0.00298044
+paramfit_add = 1.1615 ,  paramfit_mid = 1.14552
+diff k-factor(add-fac) = 0.0279665, (addfit - fac) = 0.0262877, (midfit -fac) = 0.0103057
+paramfit_add error = 0.0397595,  sys uncert = 3.42312 %
+***** 5 bin 500********
+k-factor_add = 1.14984 +- 0.00275815 ,   k-factor fac = 1.1233 +- 0.00321872
+paramfit_add = 1.1461 ,  paramfit_mid = 1.1319
+diff k-factor(add-fac) = 0.0265438, (addfit - fac) = 0.0228003, (midfit -fac) = 0.00859861
+paramfit_add error = 0.0397595,  sys uncert = 3.46911 %
+***** 6 bin 600********
+k-factor_add = 1.14176 +- 0.00320693 ,   k-factor fac = 1.11712 +- 0.00379186
+paramfit_add = 1.13222 ,  paramfit_mid = 1.11937
+diff k-factor(add-fac) = 0.0246417, (addfit - fac) = 0.015099, (midfit -fac) = 0.00225092
+paramfit_add error = 0.0397595,  sys uncert = 3.51163 %
+***** 7 bin 700********
+k-factor_add = 1.13014 +- 0.00365396 ,   k-factor fac = 1.10401 +- 0.00439356
+paramfit_add = 1.11976 ,  paramfit_mid = 1.10788
+diff k-factor(add-fac) = 0.0261297, (addfit - fac) = 0.0157551, (midfit -fac) = 0.00387582
+paramfit_add error = 0.0397595,  sys uncert = 3.55071 %
+***** 8 bin 800********
+k-factor_add = 1.12303 +- 0.00407732 ,   k-factor fac = 1.09807 +- 0.004899
+paramfit_add = 1.10862 ,  paramfit_mid = 1.09737
+diff k-factor(add-fac) = 0.0249615, (addfit - fac) = 0.0105532, (midfit -fac) = 0.000702215
+paramfit_add error = 0.0397595,  sys uncert = 3.58639 %
+***** 9 bin 900********
+k-factor_add = 1.11839 +- 0.00478065 ,   k-factor fac = 1.09334 +- 0.00580745
+paramfit_add = 1.09871 ,  paramfit_mid = 1.08777
+diff k-factor(add-fac) = 0.0250531, (addfit - fac) = 0.00537032, (midfit -fac) = 0.00556736
+paramfit_add error = 0.0397595,  sys uncert = 3.61875 %
+***** 10 bin 1000********
+k-factor_add = 1.11306 +- 0.00605703 ,   k-factor fac = 1.08864 +- 0.00745409
+paramfit_add = 1.08993 ,  paramfit_mid = 1.07904
+diff k-factor(add-fac) = 0.0244165, (addfit - fac) = 0.00128637, (midfit -fac) = 0.0096029
+paramfit_add error = 0.0397595,  sys uncert = 3.64791 %
+***** 11 bin 1100********
+k-factor_add = 1.09479 +- 0.00558145 ,   k-factor fac = 1.06902 +- 0.006834
+paramfit_add = 1.08219 ,  paramfit_mid = 1.07111
+diff k-factor(add-fac) = 0.0257624, (addfit - fac) = 0.0131648, (midfit -fac) = 0.00208999
+paramfit_add error = 0.0397595,  sys uncert = 3.67399 %
+***** 12 bin 1200********
+k-factor_add = 1.07851 +- 0.00597174 ,   k-factor fac = 1.04858 +- 0.00732221
+paramfit_add = 1.07541 ,  paramfit_mid = 1.06395
+diff k-factor(add-fac) = 0.0299366, (addfit - fac) = 0.0268317, (midfit -fac) = 0.0153713
+paramfit_add error = 0.0397595,  sys uncert = 3.69715 %
+***** 13 bin 1300********
+k-factor_add = 1.07895 +- 0.0061828 ,   k-factor fac = 1.05196 +- 0.00759922
+paramfit_add = 1.0695 ,  paramfit_mid = 1.05749
+diff k-factor(add-fac) = 0.0269836, (addfit - fac) = 0.0175385, (midfit -fac) = 0.00552434
+paramfit_add error = 0.0397595,  sys uncert = 3.71757 %
+***** 14 bin 1400********
+k-factor_add = 1.06831 +- 0.00681599 ,   k-factor fac = 1.03865 +- 0.00844585
+paramfit_add = 1.06439 ,  paramfit_mid = 1.05168
+diff k-factor(add-fac) = 0.0296538, (addfit - fac) = 0.0257362, (midfit -fac) = 0.013031
+paramfit_add error = 0.0397595,  sys uncert = 3.73543 %
+***** 15 bin 1500********
+k-factor_add = 1.05829 +- 0.00814155 ,   k-factor fac = 1.02689 +- 0.0100526
+paramfit_add = 1.05999 ,  paramfit_mid = 1.04649
+diff k-factor(add-fac) = 0.0314031, (addfit - fac) = 0.0331049, (midfit -fac) = 0.0196
+paramfit_add error = 0.0397595,  sys uncert = 3.75093 %
+***** 16 bin 1600********
+k-factor_add = 1.05463 +- 0.00690502 ,   k-factor fac = 1.02387 +- 0.00854385
+paramfit_add = 1.05623 ,  paramfit_mid = 1.04185
+diff k-factor(add-fac) = 0.0307594, (addfit - fac) = 0.0323617, (midfit -fac) = 0.0179762
+paramfit_add error = 0.0397595,  sys uncert = 3.76427 %
+***** 17 bin 1700********
+k-factor_add = 1.06136 +- 0.00839983 ,   k-factor fac = 1.03338 +- 0.0105044
+paramfit_add = 1.05304 ,  paramfit_mid = 1.03772
+diff k-factor(add-fac) = 0.02798, (addfit - fac) = 0.0196654, (midfit -fac) = 0.0043439
+paramfit_add error = 0.0397595,  sys uncert = 3.77567 %
+***** 18 bin 1800********
+k-factor_add = 1.07277 +- 0.013366 ,   k-factor fac = 1.04605 +- 0.0168273
+paramfit_add = 1.05035 ,  paramfit_mid = 1.03406
+diff k-factor(add-fac) = 0.0267217, (addfit - fac) = 0.00430486, (midfit -fac) = 0.0119838
+paramfit_add error = 0.0397595,  sys uncert = 3.78535 %
+***** 19 bin 1900********
+k-factor_add = 1.02004 +- 0.00653952 ,   k-factor fac = 0.982085 +- 0.0080684
+paramfit_add = 1.04809 ,  paramfit_mid = 1.03083
+diff k-factor(add-fac) = 0.0379508, (addfit - fac) = 0.0660068, (midfit -fac) = 0.0487426
+paramfit_add error = 0.0660068,  sys uncert = 6.29781 %
+***** 20 bin 2000********
+k-factor_add = 1.0268 +- 0.00819614 ,   k-factor fac = 0.987021 +- 0.0101113
+paramfit_add = 1.0462 ,  paramfit_mid = 1.02797
+diff k-factor(add-fac) = 0.0397811, (addfit - fac) = 0.0591787, (midfit -fac) = 0.0409513
+paramfit_add error = 0.0660068,  sys uncert = 6.3092 %
+***** 21 bin 2100********
+k-factor_add = 1.04304 +- 0.0096671 ,   k-factor fac = 1.00915 +- 0.0122013
+paramfit_add = 1.04461 ,  paramfit_mid = 1.02546
+diff k-factor(add-fac) = 0.0338884, (addfit - fac) = 0.0354655, (midfit -fac) = 0.0163069
+paramfit_add error = 0.0660068,  sys uncert = 6.31878 %
+***** 22 bin 2200********
+k-factor_add = 1.02584 +- 0.0104803 ,   k-factor fac = 0.987156 +- 0.0132058
+paramfit_add = 1.04328 ,  paramfit_mid = 1.02324
+diff k-factor(add-fac) = 0.0386788, (addfit - fac) = 0.0561212, (midfit -fac) = 0.0360809
+paramfit_add error = 0.0660068,  sys uncert = 6.32687 %
+***** 23 bin 2300********
+k-factor_add = 1.05517 +- 0.0186712 ,   k-factor fac = 1.02465 +- 0.0241166
+paramfit_add = 1.04213 ,  paramfit_mid = 1.02128
+diff k-factor(add-fac) = 0.0305201, (addfit - fac) = 0.0174877, (midfit -fac) = 0.00336822
+paramfit_add error = 0.0660068,  sys uncert = 6.33381 %
+***** 24 bin 2400********
+k-factor_add = 1.07556 +- 0.0382648 ,   k-factor fac = 1.0522 +- 0.0501133
+paramfit_add = 1.04113 ,  paramfit_mid = 1.01954
+diff k-factor(add-fac) = 0.0233597, (addfit - fac) = 0.0110711, (midfit -fac) = 0.0326621
+paramfit_add error = 0.0660068,  sys uncert = 6.33991 %
+***** 25 bin 2500********
+k-factor_add = 1.02935 +- 0.0101265 ,   k-factor fac = 0.989726 +- 0.0129109
+paramfit_add = 1.04022 ,  paramfit_mid = 1.01799
+diff k-factor(add-fac) = 0.0396207, (addfit - fac) = 0.0504966, (midfit -fac) = 0.0282639
+paramfit_add error = 0.0660068,  sys uncert = 6.34546 %
+***** 26 bin 2600********
+k-factor_add = 1.01223 +- 0.0109349 ,   k-factor fac = 0.968089 +- 0.0139725
+paramfit_add = 1.03936 ,  paramfit_mid = 1.01659
+diff k-factor(add-fac) = 0.0441392, (addfit - fac) = 0.0712678, (midfit -fac) = 0.0484986
+paramfit_add error = 0.0712678,  sys uncert = 6.85691 %
+***** 27 bin 2700********
+k-factor_add = 1.0283 +- 0.0116675 ,   k-factor fac = 0.988342 +- 0.0150549
+paramfit_add = 1.03849 ,  paramfit_mid = 1.0153
+diff k-factor(add-fac) = 0.0399596, (addfit - fac) = 0.0501502, (midfit -fac) = 0.0269592
+paramfit_add error = 0.0712678,  sys uncert = 6.86262 %
+***** 28 bin 2800********
+k-factor_add = 1.05797 +- 0.0142883 ,   k-factor fac = 1.02781 +- 0.0186621
+paramfit_add = 1.03759 ,  paramfit_mid = 1.0141
+diff k-factor(add-fac) = 0.0301583, (addfit - fac) = 0.00977651, (midfit -fac) = 0.0137133
+paramfit_add error = 0.0712678,  sys uncert = 6.86861 %
+***** 29 bin 2900********
+k-factor_add = 1.00944 +- 0.0108356 ,   k-factor fac = 0.965846 +- 0.014019
+paramfit_add = 1.0366 ,  paramfit_mid = 1.01294
+diff k-factor(add-fac) = 0.0435896, (addfit - fac) = 0.0707577, (midfit -fac) = 0.0470989
+paramfit_add error = 0.0712678,  sys uncert = 6.87513 %
+***** 30 bin 3000********
+k-factor_add = 1.0432 +- 0.0159472 ,   k-factor fac = 1.00553 +- 0.0211395
+paramfit_add = 1.03551 ,  paramfit_mid = 1.01181
+diff k-factor(add-fac) = 0.0376725, (addfit - fac) = 0.0299767, (midfit -fac) = 0.00628361
+paramfit_add error = 0.0712678,  sys uncert = 6.88241 %
+***** 31 bin 3100********
+k-factor_add = 1.05695 +- 0.0140665 ,   k-factor fac = 1.0283 +- 0.0189701
+paramfit_add = 1.03426 ,  paramfit_mid = 1.01067
+diff k-factor(add-fac) = 0.0286503, (addfit - fac) = 0.00596351, (midfit -fac) = 0.0176257
+paramfit_add error = 0.0712678,  sys uncert = 6.89069 %
+***** 32 bin 3200********
+k-factor_add = 1.02878 +- 0.0142163 ,   k-factor fac = 0.986336 +- 0.0189769
+paramfit_add = 1.03284 ,  paramfit_mid = 1.0095
+diff k-factor(add-fac) = 0.0424464, (addfit - fac) = 0.0465062, (midfit -fac) = 0.023161
+paramfit_add error = 0.0712678,  sys uncert = 6.90017 %
+***** 33 bin 3300********
+k-factor_add = 1.06714 +- 0.0191104 ,   k-factor fac = 1.0418 +- 0.0261873
+paramfit_add = 1.03122 ,  paramfit_mid = 1.00826
+diff k-factor(add-fac) = 0.0253355, (addfit - fac) = 0.0105811, (midfit -fac) = 0.0335421
+paramfit_add error = 0.0712678,  sys uncert = 6.91103 %
+***** 34 bin 3400********
+k-factor_add = 1.03892 +- 0.0150388 ,   k-factor fac = 0.999302 +- 0.020385
+paramfit_add = 1.02937 ,  paramfit_mid = 1.00693
+diff k-factor(add-fac) = 0.0396169, (addfit - fac) = 0.0300664, (midfit -fac) = 0.00762869
+paramfit_add error = 0.0712678,  sys uncert = 6.92345 %
+***** 35 bin 3500********
+k-factor_add = 1.0437 +- 0.0200104 ,   k-factor fac = 1.01039 +- 0.0275224
+paramfit_add = 1.02727 ,  paramfit_mid = 1.00549
+diff k-factor(add-fac) = 0.0333163, (addfit - fac) = 0.0168813, (midfit -fac) = 0.00489704
+paramfit_add error = 0.0712678,  sys uncert = 6.9376 %
+***** 36 bin 3600********
+k-factor_add = 1.08067 +- 0.060579 ,   k-factor fac = 1.06373 +- 0.086316
+paramfit_add = 1.0249 ,  paramfit_mid = 1.00392
+diff k-factor(add-fac) = 0.0169434, (addfit - fac) = 0.038827, (midfit -fac) = 0.0598144
+paramfit_add error = 0.0712678,  sys uncert = 6.95361 %
+***** 37 bin 3700********
+k-factor_add = 1.01832 +- 0.0137371 ,   k-factor fac = 0.97284 +- 0.0188152
+paramfit_add = 1.02226 ,  paramfit_mid = 1.00218
+diff k-factor(add-fac) = 0.0454821, (addfit - fac) = 0.0494156, (midfit -fac) = 0.0293445
+paramfit_add error = 0.0712678,  sys uncert = 6.97163 %
+***** 38 bin 3800********
+k-factor_add = 1.02983 +- 0.0161961 ,   k-factor fac = 0.990606 +- 0.0224038
+paramfit_add = 1.01931 ,  paramfit_mid = 1.00027
+diff k-factor(add-fac) = 0.0392212, (addfit - fac) = 0.0287062, (midfit -fac) = 0.00966915
+paramfit_add error = 0.0712678,  sys uncert = 6.99176 %
+***** 39 bin 3900********
+k-factor_add = 1.02809 +- 0.0154378 ,   k-factor fac = 0.991665 +- 0.0215892
+paramfit_add = 1.01606 ,  paramfit_mid = 0.998169
+diff k-factor(add-fac) = 0.0364293, (addfit - fac) = 0.0243981, (midfit -fac) = 0.00650357
+paramfit_add error = 0.0712678,  sys uncert = 7.01411 %
+***** 40 bin 4000********
+k-factor_add = 1.03174 +- 0.0141773 ,   k-factor fac = 0.996042 +- 0.0199278
+paramfit_add = 1.0125 ,  paramfit_mid = 0.995849
+diff k-factor(add-fac) = 0.0356985, (addfit - fac) = 0.0164615, (midfit -fac) = 0.000192993
+paramfit_add error = 0.0712678,  sys uncert = 7.03877 %
+***** 41 bin 4100********
+k-factor_add = 1.05576 +- 0.0402148 ,   k-factor fac = 1.03707 +- 0.0586156
+paramfit_add = 1.00863 ,  paramfit_mid = 0.993297
+diff k-factor(add-fac) = 0.0186924, (addfit - fac) = 0.0284402, (midfit -fac) = 0.0437697
+paramfit_add error = 0.0712678,  sys uncert = 7.06583 %
+***** 42 bin 4200********
+k-factor_add = 1.04843 +- 0.0182724 ,   k-factor fac = 1.0313 +- 0.0265887
+paramfit_add = 1.00443 ,  paramfit_mid = 0.990499
+diff k-factor(add-fac) = 0.0171234, (addfit - fac) = 0.0268727, (midfit -fac) = 0.0408062
+paramfit_add error = 0.0712678,  sys uncert = 7.09533 %
+***** 43 bin 4300********
+k-factor_add = 1.04673 +- 0.0193987 ,   k-factor fac = 1.0322 +- 0.0284668
+paramfit_add = 0.999922 ,  paramfit_mid = 0.987439
+diff k-factor(add-fac) = 0.0145304, (addfit - fac) = 0.0322766, (midfit -fac) = 0.0447589
+paramfit_add error = 0.0712678,  sys uncert = 7.12734 %
+***** 44 bin 4400********
+k-factor_add = 1.08483 +- 0.0281655 ,   k-factor fac = 1.0942 +- 0.0425325
+paramfit_add = 0.995099 ,  paramfit_mid = 0.984106
+diff k-factor(add-fac) = 0.00936468, (addfit - fac) = 0.099098, (midfit -fac) = 0.110091
+paramfit_add error = 0.099098,  sys uncert = 9.95861 %
+***** 45 bin 4500********
+k-factor_add = 1.08546 +- 0.0555194 ,   k-factor fac = 1.10525 +- 0.0840775
+paramfit_add = 0.989972 ,  paramfit_mid = 0.980487
+diff k-factor(add-fac) = 0.0197967, (addfit - fac) = 0.11528, (midfit -fac) = 0.124765
+paramfit_add error = 0.11528,  sys uncert = 11.6448 %
+***** 46 bin 4600********
+k-factor_add = 1.01808 +- 0.024725 ,   k-factor fac = 1.00762 +- 0.0368341
+paramfit_add = 0.98455 ,  paramfit_mid = 0.976572
+diff k-factor(add-fac) = 0.0104546, (addfit - fac) = 0.0230729, (midfit -fac) = 0.0310509
+paramfit_add error = 0.11528,  sys uncert = 11.7089 %
+***** 47 bin 4700********
+k-factor_add = 1.05224 +- 0.0390208 ,   k-factor fac = 1.07035 +- 0.0590889
+paramfit_add = 0.978846 ,  paramfit_mid = 0.972351
+diff k-factor(add-fac) = 0.0181084, (addfit - fac) = 0.0915022, (midfit -fac) = 0.0979967
+paramfit_add error = 0.11528,  sys uncert = 11.7772 %
+***** 48 bin 4800********
+k-factor_add = 1.0357 +- 0.0343042 ,   k-factor fac = 1.05559 +- 0.0527247
+paramfit_add = 0.972876 ,  paramfit_mid = 0.967817
+diff k-factor(add-fac) = 0.0198915, (addfit - fac) = 0.0827137, (midfit -fac) = 0.0877719
+paramfit_add error = 0.11528,  sys uncert = 11.8494 %
+***** 49 bin 4900********
+k-factor_add = 0.931313 +- 0.0236789 ,   k-factor fac = 0.905226 +- 0.0341231
+paramfit_add = 0.966657 ,  paramfit_mid = 0.962963
+diff k-factor(add-fac) = 0.0260877, (addfit - fac) = 0.0614317, (midfit -fac) = 0.0577375
+paramfit_add error = 0.11528,  sys uncert = 11.9257 %
+***** 50 bin 5000********
+k-factor_add = 1.02119 +- 0.0236167 ,   k-factor fac = 1.03961 +- 0.0358408
+paramfit_add = 0.960213 ,  paramfit_mid = 0.957783
+diff k-factor(add-fac) = 0.0184185, (addfit - fac) = 0.0793972, (midfit -fac) = 0.0818265
+paramfit_add error = 0.11528,  sys uncert = 12.0057 %
+***** 51 bin 5100********
+k-factor_add = 0.935817 +- 0.0206558 ,   k-factor fac = 0.921878 +- 0.0304467
+paramfit_add = 0.953565 ,  paramfit_mid = 0.952273
+diff k-factor(add-fac) = 0.0139389, (addfit - fac) = 0.0316869, (midfit -fac) = 0.0303946
+paramfit_add error = 0.11528,  sys uncert = 12.0894 %
+***** 52 bin 5200********
+k-factor_add = 0.968687 +- 0.0500097 ,   k-factor fac = 0.979596 +- 0.0761986
+paramfit_add = 0.946743 ,  paramfit_mid = 0.94643
+diff k-factor(add-fac) = 0.0109091, (addfit - fac) = 0.0328536, (midfit -fac) = 0.0331664
+paramfit_add error = 0.11528,  sys uncert = 12.1765 %
+***** 53 bin 5300********
+k-factor_add = 0.897879 +- 0.0162479 ,   k-factor fac = 0.881978 +- 0.0240013
+paramfit_add = 0.939774 ,  paramfit_mid = 0.940252
+diff k-factor(add-fac) = 0.015901, (addfit - fac) = 0.0577959, (midfit -fac) = 0.0582733
+paramfit_add error = 0.11528,  sys uncert = 12.2668 %
+***** 54 bin 5400********
+k-factor_add = 0.936903 +- 0.028354 ,   k-factor fac = 0.943386 +- 0.0437215
+paramfit_add = 0.932693 ,  paramfit_mid = 0.933738
+diff k-factor(add-fac) = 0.00648291, (addfit - fac) = 0.0106933, (midfit -fac) = 0.00964828
+paramfit_add error = 0.11528,  sys uncert = 12.36 %
+***** 55 bin 5500********
+k-factor_add = 1.02548 +- 0.0773554 ,   k-factor fac = 1.08876 +- 0.124201
+paramfit_add = 0.925534 ,  paramfit_mid = 0.926889
+diff k-factor(add-fac) = 0.0632776, (addfit - fac) = 0.163221, (midfit -fac) = 0.161866
+paramfit_add error = 0.163221,  sys uncert = 17.6353 %
+***** 56 bin 5600********
+k-factor_add = 1.02705 +- 0.0727915 ,   k-factor fac = 1.09392 +- 0.115202
+paramfit_add = 0.918336 ,  paramfit_mid = 0.919708
+diff k-factor(add-fac) = 0.0668748, (addfit - fac) = 0.175584, (midfit -fac) = 0.174213
+paramfit_add error = 0.175584,  sys uncert = 19.1198 %
+***** 57 bin 5700********
+k-factor_add = 0.808933 +- 0.0182552 ,   k-factor fac = 0.75877 +- 0.0252422
+paramfit_add = 0.911141 ,  paramfit_mid = 0.912197
+diff k-factor(add-fac) = 0.0501631, (addfit - fac) = 0.15237, (midfit -fac) = 0.153427
+paramfit_add error = 0.175584,  sys uncert = 19.2708 %
+***** 58 bin 5800********
+k-factor_add = 0.90812 +- 0.025057 ,   k-factor fac = 0.924872 +- 0.038467
+paramfit_add = 0.903991 ,  paramfit_mid = 0.90436
+diff k-factor(add-fac) = 0.0167519, (addfit - fac) = 0.0208811, (midfit -fac) = 0.0205117
+paramfit_add error = 0.175584,  sys uncert = 19.4233 %
+***** 59 bin 5900********
+k-factor_add = 0.870766 +- 0.0213304 ,   k-factor fac = 0.872532 +- 0.0316967
+paramfit_add = 0.896934 ,  paramfit_mid = 0.896204
+diff k-factor(add-fac) = 0.00176638, (addfit - fac) = 0.0244015, (midfit -fac) = 0.0236715
+paramfit_add error = 0.175584,  sys uncert = 19.5761 %
+***** 60 bin 6000********
+k-factor_add = 0.903802 +- 0.0272671 ,   k-factor fac = 0.917415 +- 0.0420028
+paramfit_add = 0.89002 ,  paramfit_mid = 0.887735
+diff k-factor(add-fac) = 0.0136128, (addfit - fac) = 0.0273954, (midfit -fac) = 0.0296803
+paramfit_add error = 0.175584,  sys uncert = 19.7282 %
+***** 61 bin 6100********
+k-factor_add = 0.903553 +- 0.0283989 ,   k-factor fac = 0.919059 +- 0.044755
+paramfit_add = 0.8833 ,  paramfit_mid = 0.878961
+diff k-factor(add-fac) = 0.0155063, (addfit - fac) = 0.0357586, (midfit -fac) = 0.0400981
+paramfit_add error = 0.175584,  sys uncert = 19.8782 %
+***** 62 bin 6200********
+k-factor_add = 0.914898 +- 0.0498347 ,   k-factor fac = 0.933238 +- 0.0787107
+paramfit_add = 0.876831 ,  paramfit_mid = 0.869891
+diff k-factor(add-fac) = 0.0183399, (addfit - fac) = 0.0564068, (midfit -fac) = 0.0633468
+paramfit_add error = 0.175584,  sys uncert = 20.0249 %
+***** 63 bin 6300********
+k-factor_add = 0.977547 +- 0.121992 ,   k-factor fac = 1.03196 +- 0.20156
+paramfit_add = 0.870671 ,  paramfit_mid = 0.860537
+diff k-factor(add-fac) = 0.0544114, (addfit - fac) = 0.161287, (midfit -fac) = 0.171421
+paramfit_add error = 0.175584,  sys uncert = 20.1666 %
+***** 64 bin 6400********
+k-factor_add = 1.02817 +- 0.0653533 ,   k-factor fac = 1.10809 +- 0.110485
+paramfit_add = 0.86488 ,  paramfit_mid = 0.85091
+diff k-factor(add-fac) = 0.0799148, (addfit - fac) = 0.243208, (midfit -fac) = 0.257178
+paramfit_add error = 0.243208,  sys uncert = 28.1204 %
+***** 65 bin 6500********
+k-factor_add = 0.871887 +- 0.0331008 ,   k-factor fac = 0.858892 +- 0.0519853
+paramfit_add = 0.859523 ,  paramfit_mid = 0.841023
+diff k-factor(add-fac) = 0.012995, (addfit - fac) = 0.000631382, (midfit -fac) = 0.0178686
+paramfit_add error = 0.243208,  sys uncert = 28.2957 %
+***** 66 bin 6600********
+k-factor_add = 0.953776 +- 0.0662515 ,   k-factor fac = 0.987342 +- 0.108784
+paramfit_add = 0.854666 ,  paramfit_mid = 0.830891
+diff k-factor(add-fac) = 0.0335653, (addfit - fac) = 0.132675, (midfit -fac) = 0.156451
+paramfit_add error = 0.243208,  sys uncert = 28.4565 %
+***** 67 bin 6700********
+k-factor_add = 0.813869 +- 0.0243495 ,   k-factor fac = 0.751853 +- 0.0347176
+paramfit_add = 0.850379 ,  paramfit_mid = 0.820528
+diff k-factor(add-fac) = 0.0620159, (addfit - fac) = 0.0985264, (midfit -fac) = 0.0686758
+paramfit_add error = 0.243208,  sys uncert = 28.5999 %
+***** 68 bin 6800********
+k-factor_add = 0.853617 +- 0.045562 ,   k-factor fac = 0.797123 +- 0.0698147
+paramfit_add = 0.846734 ,  paramfit_mid = 0.809953
+diff k-factor(add-fac) = 0.056494, (addfit - fac) = 0.049611, (midfit -fac) = 0.01283
+paramfit_add error = 0.243208,  sys uncert = 28.7231 %
+***** 69 bin 6900********
+k-factor_add = 0.799143 +- 0.0256219 ,   k-factor fac = 0.705611 +- 0.0342463
+paramfit_add = 0.843806 ,  paramfit_mid = 0.799182
+diff k-factor(add-fac) = 0.0935319, (addfit - fac) = 0.138195, (midfit -fac) = 0.0935709
+paramfit_add error = 0.243208,  sys uncert = 28.8227 %
+***** 70 bin 7000********
+k-factor_add = 0.883783 +- 0.026737 ,   k-factor fac = 0.825807 +- 0.0414175
+paramfit_add = 0.841673 ,  paramfit_mid = 0.788236
+diff k-factor(add-fac) = 0.0579766, (addfit - fac) = 0.0158664, (midfit -fac) = 0.0375713
+paramfit_add error = 0.243208,  sys uncert = 28.8958 %
+***** 71 bin 7100********
+k-factor_add = 0.899027 +- 0.0434294 ,   k-factor fac = 0.842592 +- 0.0700692
+paramfit_add = 0.841673 ,  paramfit_mid = 0.788236
+diff k-factor(add-fac) = 0.0564349, (addfit - fac) = 0.000919057, (midfit -fac) = 0.0543567
+paramfit_add error = 0.243208,  sys uncert = 28.8958 %
+***** 72 bin 7200********
+k-factor_add = 0.909538 +- 0.0412857 ,   k-factor fac = 0.841809 +- 0.0666092
+paramfit_add = 0.841673 ,  paramfit_mid = 0.788236
+diff k-factor(add-fac) = 0.0677292, (addfit - fac) = 0.000135333, (midfit -fac) = 0.053573
+paramfit_add error = 0.243208,  sys uncert = 28.8958 %
+***** 73 bin 7300********
+k-factor_add = 0.942893 +- 0.0481621 ,   k-factor fac = 0.881453 +- 0.0787131
+paramfit_add = 0.841673 ,  paramfit_mid = 0.788236
+diff k-factor(add-fac) = 0.0614394, (addfit - fac) = 0.0397799, (midfit -fac) = 0.0932176
+paramfit_add error = 0.243208,  sys uncert = 28.8958 %
+***** 74 bin 7400********
+k-factor_add = 0.968009 +- 0.0339606 ,   k-factor fac = 0.901465 +- 0.056684
+paramfit_add = 0.841673 ,  paramfit_mid = 0.788236
+diff k-factor(add-fac) = 0.0665444, (addfit - fac) = 0.0597917, (midfit -fac) = 0.113229
+paramfit_add error = 0.243208,  sys uncert = 28.8958 %
+***** 75 bin 7500********
+k-factor_add = 0.940957 +- 0.0313667 ,   k-factor fac = 0.820734 +- 0.0488064
+paramfit_add = 0.841673 ,  paramfit_mid = 0.788236
+diff k-factor(add-fac) = 0.120223, (addfit - fac) = 0.0209389, (midfit -fac) = 0.0324988
+paramfit_add error = 0.243208,  sys uncert = 28.8958 %
+***** 76 bin 7600********
+k-factor_add = 1.03092 +- 0.055614 ,   k-factor fac = 0.968378 +- 0.0998434
+paramfit_add = 0.841673 ,  paramfit_mid = 0.788236
+diff k-factor(add-fac) = 0.0625472, (addfit - fac) = 0.126705, (midfit -fac) = 0.180142
+paramfit_add error = 0.243208,  sys uncert = 28.8958 %
+77 bin 0.613347
+***** 77 bin 7700********
+k-factor_add = 0.668536 +- 0.0193406 ,   k-factor fac = 0.228326 +- 0.0456715
+paramfit_add = 0.841673 ,  paramfit_mid = 0.788236
+diff k-factor(add-fac) = 0.44021, (addfit - fac) = 0.613347, (midfit -fac) = 0.559909
+paramfit_add error = 0.613347,  sys uncert = 72.8724 %
+78 bin 0.613347
+***** 78 bin 7800********
+k-factor_add = 1.11939 +- 0.0760258 ,   k-factor fac = 1.06399 +- 0.145945
+paramfit_add = 0.841673 ,  paramfit_mid = 0.788236
+diff k-factor(add-fac) = 0.0554029, (addfit - fac) = 0.222317, (midfit -fac) = 0.275755
+paramfit_add error = 0.613347,  sys uncert = 72.8724 %
+79 bin 0.613347
+***** 79 bin 7900********
+k-factor_add = 1.12009 +- 0.102855 ,   k-factor fac = 1.06951 +- 0.198218
+paramfit_add = 0.841673 ,  paramfit_mid = 0.788236
+diff k-factor(add-fac) = 0.0505771, (addfit - fac) = 0.227835, (midfit -fac) = 0.281273
+paramfit_add error = 0.613347,  sys uncert = 72.8724 %
+(13 TeV)
